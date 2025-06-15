@@ -70,12 +70,13 @@ The `main_test.py` file evaluates the learned policy. The agent runs on the trac
 ## 📹 Demonstration
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a507e87f-fc9a-4f89-9cdd-5b76bad8ec1a" alt="RL_Car Training" width="500"><br>
+    <img src="https://github.com/user-attachments/assets/9812c99b-a132-42f7-8aca-ce9360e018c9" alt="RL_Car Testing" width="500"><br>
   <i>Training simulation with multiple cars</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9812c99b-a132-42f7-8aca-ce9360e018c9" alt="RL_Car Testing" width="500"><br>
+
+  <img src="https://github.com/user-attachments/assets/a507e87f-fc9a-4f89-9cdd-5b76bad8ec1a" alt="RL_Car Training" width="500"><br>
   <i>Learned policy in action</i>
 </p>
 
